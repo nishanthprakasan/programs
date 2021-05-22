@@ -34,7 +34,6 @@ public class q5b
             for(int y = 0 ; y < n ; y++)
             {
                 product = product * array[y][x];
-                //System.out.println("Product : "+ product);
             }
             System.out.println("Product : "+ product);
         }
