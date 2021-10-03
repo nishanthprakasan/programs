@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//rows = 7 , columns = 6// row sleeping line column standing line
+//rows = 7 , columns = 6
 public class connect4
 {
     static String game[][] = {{"1","2","3","4","5","6","7"} , {"1","2","3","4","5","6","7"},
